@@ -1,0 +1,2 @@
+--The repository implies the web application done for the national level technical sysmposium - INSIGHT X
+--Replicates the features of navigation, designing, animation, accessibility.
